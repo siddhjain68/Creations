@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #b8faff;
+    color: 
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+#apps{
+    background-color: aqua;
+    color: coral;
+}
+img:hover{
+    transform: scale(0.9);
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+#games{
+    background-color: coral;
+    height: 650px;
+}
+#chatbot{
+    background-color: yellow;
+    height: 650px;
+}
